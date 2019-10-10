@@ -12,3 +12,16 @@ h1 {
 h2 {
 	font-size: 130% ;
 }
+.gurantee {
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #a7cece;
+	padding: 25px;
+	margin: 30px;
+	color: #444444;
+	font-style: italic;
+	font-family: Gergia, Times New Roman, Times serif;
+	line-height: 1.9em;
+	background-image: url(images/background.gif);
+}
